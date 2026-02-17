@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I build systems that feel simple.<br>Software Engineer & Data Analyst passionate about building practical, real-world solutions through technology and data.
 
 
