@@ -126,11 +126,11 @@ AI-powered operational platform focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvirakhter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanvirakhter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirakhter&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=tanvirakhter&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirakhter&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirakhter&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
