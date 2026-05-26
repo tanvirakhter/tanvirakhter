@@ -1,159 +1,145 @@
+<div align="center">
+
 # Tanvir Akhter Shakib
 
-## Applied AI Researcher • AI Systems Engineer • Data Analyst
+### Applied AI Researcher • AI Systems Engineer • Data Analyst
 
-I build intelligent systems that feel simple.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Applied+AI+%26+Automation;Sustainable+Technology+%26+Green+AI;Multi-Agent+AI+Systems;Data-Driven+Decision+Making" />
 
-Engineer and researcher focused on practical AI, scalable software systems, intelligent automation, and sustainable technology that creates measurable real-world impact.
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirakhtershakib/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanvirakhter.shakib/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tanvir-Akhter-Shakib)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HHRHloEAAAAJ)
+
+</div>
 
 ---
 
 ## About Me
 
-- MSc Data Science & Analytics @ Brunel University London
-- Technical Manager @ NexCell Solutions
-- Background in Software Engineering, Artificial Intelligence, and Data Analytics
-- Building production-grade AI systems and intelligent automation platforms
-- Interested in AI research, sustainable digital infrastructure, and human-centered technology
-- Long-term goal: contributing to impactful AI research and building responsible technology for the future
+```yaml
+Name: Tanvir Akhter Shakib
+Role: Applied AI Researcher & Systems Engineer
+Education: MSc Data Science & Analytics @ Brunel University London
+Focus:
+  - Applied Artificial Intelligence
+  - Multi-Agent Systems
+  - Sustainable & Green Technology
+  - Intelligent Automation
+  - Explainable AI
+  - Smart Infrastructure
+Current Work:
+  - AI-powered CRM Systems
+  - Workflow Intelligence
+  - Operational Automation
+  - AI Infrastructure
+```
 
 ---
 
-## Research & Industry Focus
+## Current Focus
 
-My work sits at the intersection of:
+<div align="center">
 
-- Applied Artificial Intelligence
-- Multi-Agent AI Systems
-- Intelligent Automation
-- Explainable AI (XAI)
-- Sustainable AI Infrastructure
-- AI for Operational Efficiency
-- Data-Driven Decision Systems
-- Smart Infrastructure & Green Technology
-- Human-Centered AI
-- AI for SMEs & Digital Transformation
+| AI Systems | Sustainability | Research |
+|---|---|---|
+| Multi-Agent AI | Green Tech | Explainable AI |
+| Intelligent Automation | Sustainable Infrastructure | AI for SMEs |
+| AI CRM Systems | Smart Systems | Human-Centered AI |
 
-I am particularly interested in how intelligent systems can:
-- reduce operational waste
-- optimize resource usage
-- improve business efficiency
-- modernize legacy systems
-- support sustainable digital transformation
+</div>
 
 ---
 
-## Current Work
+# Tech Stack
 
-### ConneX AI CRM
-AI-powered operational platform focused on intelligent business automation.
+## Languages
 
-Core areas include:
-- Multi-agent AI orchestration
-- AI receptionist systems
-- Automated lead qualification
-- Intelligent workflow automation
-- Real-time analytics dashboards
-- AI-assisted customer engagement
-- Scalable cloud infrastructure
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,dart,swift,r,cs,cpp,php,kotlin,go" />
+</p>
 
-### Applied AI & Intelligent Systems
-Researching and building systems involving:
-- LangGraph AI orchestration
-- LLM-powered workflows
-- Predictive analytics
-- AI-assisted decision systems
-- Workflow intelligence
-- Intelligent CRM systems
+## AI / Data Science
 
-### Sustainable & Smart Technology
-Exploring technology solutions related to:
-- Sustainable digital systems
-- Smart operational efficiency
-- AI-driven optimization
-- Environmental data systems
-- Intelligent infrastructure
-- Green technology innovation
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy" />
+</p>
 
----
+## Backend & Cloud
 
-## Research Interests
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker,redis,firebase,supabase,aws,gcp,azure,cloudflare" />
+</p>
 
-- Artificial Intelligence
-- Multi-Agent Systems
-- Explainable AI
-- Sustainable AI
-- Intelligent Automation
-- AI Infrastructure
-- Data Analytics & Predictive Systems
-- Human-AI Interaction
-- Smart Cities & Green Technology
-- Ethical & Responsible AI
+## Frontend & Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,figma,framer" />
+</p>
+
+## DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,postman" />
+</p>
 
 ---
 
-## Technical Expertise
+# Research Interests
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+<div align="center">
 
-### AI / Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+```mermaid
+mindmap
+  root((Research))
+    Applied AI
+    Multi-Agent Systems
+    Sustainable AI
+    Green Technology
+    Explainable AI
+    Smart Infrastructure
+    Intelligent Automation
+    AI Ethics
+    Human-Centered AI
+```
 
-### Backend & Cloud Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Frontend & Product Engineering
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+</div>
 
 ---
 
-## Publications & Research Profiles
+# Featured Work
 
-- ResearchGate: https://www.researchgate.net/profile/Tanvir-Akhter-Shakib
-- Google Scholar: https://scholar.google.com/citations?user=HHRHloEAAAAJ
-
----
-
-## Philosophy
-
-I believe technology should not only be intelligent, but also responsible, sustainable, and human-centered.
-
-The future of software lies in systems that:
-- augment human capability
-- reduce inefficiency
-- operate ethically
-- scale sustainably
-- create meaningful impact
+## ConneX AI CRM
+AI-powered operational platform focused on:
+- Multi-Agent AI Orchestration
+- AI Receptionist Systems
+- Intelligent Workflow Automation
+- Real-Time Analytics
+- AI-Assisted Customer Engagement
 
 ---
 
-## Connect With Me
+# GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirakhtershakib/)
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tanvirakhter.shakib/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvirakhter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
----
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirakhter&theme=tokyonight&hide_border=true" />
 
-## GitHub Analytics
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirakhter&layout=compact&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=tanvirakhter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanvirakhter&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirakhter&theme=tokyonight&hide_border=true&layout=compact)
+</div>
 
 ---
+
+<div align="center">
+
+### Building intelligent systems for a smarter and more sustainable future.
+
+<img src="https://komarev.com/ghpvc/?username=tanvirakhter&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
