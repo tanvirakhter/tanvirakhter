@@ -21,7 +21,7 @@
 
 ```yaml
 Name: Tanvir Akhter Shakib
-Role: Applied AI Researcher & Systems Engineer
+Role: Software Engineer and Applied AI Researcher focused on trustworthy AI systems, explainability, and intelligent automation.
 Education: MSc Data Science & Analytics @ Brunel University London
 Focus:
   - Applied Artificial Intelligence
