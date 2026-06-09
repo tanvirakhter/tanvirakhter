@@ -24,12 +24,14 @@ Name: Tanvir Akhter Shakib
 Role: Software Engineer and Applied AI Researcher focused on trustworthy AI systems, explainability, and intelligent automation.
 Education: MSc Data Science & Analytics @ Brunel University London
 Focus:
-  - Applied Artificial Intelligence
-  - Multi-Agent Systems
-  - Sustainable & Green Technology
+  - Trustworthy AI Systems
+  - Explainable AI (XAI)
+  - Multi-Agent AI Systems
+  - Human-Centred AI
   - Intelligent Automation
-  - Explainable AI
+  - Sustainable AI Infrastructure
   - Smart Infrastructure
+
 Current Work:
   - AI-powered CRM Systems
   - Workflow Intelligence
